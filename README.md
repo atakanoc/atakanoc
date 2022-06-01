@@ -31,6 +31,6 @@ If you want to talk about literally anything, just hit me up!
 
 I'm not on most social media platforms but you can still contact me on the ones that I use or send me an email.
 
-Email: atakanocbn@gmail.com
-Discord: Dr. Magazi#3408
-Telegram: atakanoc
+* Email: atakanocbn@gmail.com
+* Discord: Dr. Magazi#3408
+* Telegram: atakanoc
