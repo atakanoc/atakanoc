@@ -14,7 +14,9 @@ Google:
 ### CS Interests 💻
 While I joined my Bachelor's program with the intent to specialize in cyber security, after falling in love with software development I decided to change my specialization to the latter. 
 
-By now (June 2022) I have worked on 2 group projects for a total of 5 months to develop desktop and mobile applications allowing me to refine my programming skills and get more familiar with other parts of the development/engineering process such as CI/CDs, Scrum practices and documentation for architecture, requirements, etc...
+By now (June 2022) I have worked on 2 group projects for a total of 5 months to develop a [desktop application for hotels](https://github.com/atakanoc/hotel-reception) and a [mobile application for volunteering](https://github.com/atakanoc/vaxjo-volunteers), allowing me to refine my programming skills and get more familiar with other parts of the development/engineering process such as CI/CDs, Scrum practices and documentation for architecture, requirements, etc...
+
+Most of my other repos currently contain little scripts, apps and others I worked on during school and imported here recently for display. You can take a look to get a very surface glance of some of the subjects we learned and how we applied them.
 
 ### Work 💰
 Even though I have another year left until I graduate from uni, I'm currently looking to start working. I'm looking more specifically towards software development/engineering at the moment but I'm open to others from the vast sea of offerings within CS world. 
